@@ -1,0 +1,1 @@
+added cursor: pointer when hovering over the expand/shrink button
