@@ -5,6 +5,7 @@ CalendarChat is websitesoftware waarop jij jouw agendaitems importeert en per it
 Momenteel bezig:
 
 -Algemene opbouw
+
 -Toevoegen Zermelo
 
 Later:
