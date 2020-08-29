@@ -56,10 +56,10 @@
 		</div>
 		
 		<script>
-		var sidebarExpanded = true;
-			document.getElementById("shrinkButton").style.display = "inline";
-			document.getElementById("expandButton").style.display = "none";
-			document.getElementById("expansion").style.display = "block";
+		var sidebarExpanded = false;
+			document.getElementById("shrinkButton").style.display = "none";
+			document.getElementById("expandButton").style.display = "inline";
+			document.getElementById("expansion").style.display = "none";
 
 		
 		function expansion(){
